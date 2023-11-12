@@ -1,0 +1,1000 @@
+   41  cd B
+   42  mkdir C
+   43  cd..
+   44  cd ..
+   45  tree
+   46  cd D
+   47  mkdir E
+   48  cd E
+   49  mkdir F
+   50  tree
+   51  ls
+   52  touch a.txt
+   53  cd ..
+   54  cd..
+   55  cd ..
+   56  cd b
+   57  cd B
+   58  cd C
+   59  touch b.txt
+   60  touch c.txt
+   61  cd ..
+   62  cd..
+   63  cd ..
+   64  tree
+   65  cd A
+   66  cd D
+   67  cd E
+   68  rm a.txt
+   69  cd F
+   70  a.txt
+   71  touch a.txt
+   72  cd ..
+   73  tree
+   74  cd snap
+   75  ls -l
+   76  tree
+   77  cd snap
+   78  cd snapd-desktop-integration/
+   79  ls -l
+   80  tree
+   81  ls -a
+   82  nano
+   83  dir
+   84  chmod +x Comparacion.sh
+   85  ./comparacion.sh
+   86  ./ comparacion.sh
+   87  ls
+   88  ./Comparacion.sh
+   89  nano
+   90  ./Comparacion.sh
+   91  nano
+   92  ./Comparacion.sh
+   93  nano
+   94  ./Comparacion.sh
+   95  nano
+   96  ./Comparacion.sh
+   97  nano
+   98  ./Comparacion.sh
+   99  nano
+  100  ./Comparacion.sh
+  101  nano
+  102  ./Comparacion.sh
+  103  nano
+  104  ./Comparacion.sh
+  105  nano
+  106  ./Comparacion.sh
+  107  nano
+  108  bin
+  109  vin
+  110  vin compara
+  111  apt-get vin
+  112  get vin
+  113  su
+  114  sudo apt install vin
+  115  sudo apt-get install vin
+  116  bash
+  117  sudo apt install vin
+  118  su apt install vin
+  119  sudo bash
+  120  mkdir Ejercicios
+  121  cd Ejercicios
+  122  dir
+  123  touch comparacion.sh
+  124  cd..
+  125  cd ..
+  126  dir
+  127  cp Comparar.sh Ejercicios
+  128  cd Ejercicios
+  129  dir
+  130  cat comparacion.sh
+  131  cat comparar.sh
+  132  cat Comparar.sh
+  133  mr comparacion.sh
+  134  dir
+  135  mr comparacion.sh
+  136  sudo apt-get install mr
+  137  dir
+  138  rm comparar.sh
+  139  dir
+  140  cat comparacion.sh
+  141  cat Comparar.sh
+  142  rm comparacion.sh
+  143  dir
+  144  vim
+  145  ll
+  146  vim Comparar.sh 
+  147  vim
+  148  dir
+  149  ./Comparacion.sh
+  150  vim
+  151  vim Comparacion.sh
+  152  ./Comparacion.sh
+  153  vim Comparacion.sh
+  154  ./Comparacion.sh
+  155  vim Comparacion.sh
+  156  ./Comparacion.sh
+  157  vim Comparacion.sh
+  158  ./Comparacion.sh
+  159  vim Comparacion.sh
+  160  ./Comparacion.sh
+  161  vim Comparacion.sh
+  162  ./Comparacion.sh
+  163  vim Comparacion.sh
+  164  ./Comparacion.sh
+  165  vim Comparacion.sh
+  166  ./Comparacion.sh
+  167  vim Comparacion.sh
+  168  ./Comparacion.sh
+  169  vim Comparacion.sh
+  170  ./Comparacion.sh
+  171  vim Comparacion.sh
+  172  ./Comparacion.sh
+  173  vim Comparacion.sh
+  174  ./Comparacion.sh
+  175  cls
+  176  ls
+  177  dir
+  178  cd Ejercicios
+  179  dir
+  180  vim
+  181  dir
+  182  chmod +x intervalo.sh
+  183  ./intevalo.sh 4 9
+  184  ./intervalo.sh 4 9
+  185  vim intervalo
+  186  vim intervalo.sh
+  187  ./intervalo.sh 4 9
+  188  vim intervalo.sh
+  189  ./intervalo.sh 4 9
+  190  vim intervalo.sh
+  191  ./intervalo.sh 4 9
+  192  vim intervalo.sh
+  193  ./intervalo.sh 4 9
+  194  vim intervalo.sh
+  195  ./intervalo.sh 4 9
+  196  vim intervalo.sh
+  197  ./intervalo.sh 4 9
+  198  vim intervalo.sh
+  199  ./intervalo.sh 4 9
+  200  vim intervalo.sh
+  201  sudo apt-get update
+  202  sudo apt-get install git
+  203  git clone 
+  204  git clone https://github.com/GerardoTrapero/ejercicios
+  205  git clone https://github.com/GerardoTrapero/ejercicios/
+  206  git clone
+  207  git clone https://github.com/GerardoTrapero/ejercicios
+  208  git clone https://github.com/GerardoTrapero/ejercicios/
+  209  ll
+  210  cd ejercicios/
+  211  ll
+  212  cd ..
+  213  ll
+  214  cd Ejercicios/
+  215  ll
+  216  git clone
+  217  cd ..
+  218  ll
+  219  cp -r ejercicios Documentos
+  220  ll
+  221  cd Documentos
+  222  dir
+  223  cd ejercicios
+  224  dir
+  225  tree
+  226  cd..
+  227  cd ..
+  228  dir
+  229  cd ..
+  230  dir
+  231  ll
+  232  cp comparacion.sh Documentos/ejercicios
+  233  tree
+  234  ll
+  235  mv Comparacion.sh Documentos/ejercicios
+  236  mv holamundo.sh Documentos/ejercicios
+  237  ll
+  238  cp -r Ejercicios Documentos/ejercicios
+  239  ll
+  240  cd ejercicios
+  241  dir
+  242  cd..
+  243  cd ..
+  244  cd Ejercicios
+  245  ll
+  246  cd ..
+  247  cd Documentos
+  248  ll
+  249  cd ejercicios
+  250  ll
+  251  cd ..
+  252  rm -r ejercicios
+  253  ll
+  254  dir Ejercicios
+  255  mv *.sh Documentos/ejercicios
+  256  ll
+  257  cd Ejercicios
+  258  dir
+  259  cd ..
+  260  cd Documentos/ejercicios
+  261  ll
+  262  cd ..
+  263  cd..
+  264  cd ..
+  265  dir
+  266  cp -r Ejercicios Documentos/ejercicios
+  267  dir Documentos/ejercicios
+  268  ll
+  269  cd Documentos
+  270  dir
+  271  cd ..
+  272  dir
+  273  cp -r Ejercicios Documentos
+  274  cd Documentos
+  275  ll
+  276  cd Ejercicios
+  277  dir
+  278  cd ..
+  279  dir
+  280  rm -r Ejercicios
+  281  ll
+  282  dir
+  283  cd Documentos
+  284  dir
+  285  cd ejercicios
+  286  dir
+  287  ll
+  288  cd ..
+  289  dir
+  290  ll
+  291  cd Ejercicios
+  292  dir
+  293  ll
+  294  Comparar.sh ./ejercicios.sh
+  295  Comparar.sh ./Comparar.sh
+  296  Comparar.sh ./ejercicios
+  297  mv Comparar.sh /ejercicios
+  298  sudo
+  299  su -
+  300  sudo
+  301  su
+  302  cd ..
+  303  cd..
+  304  cd ..
+  305  su
+  306  su -
+  307  ll
+  308  tree
+  309  cd Documentos/ejercicios
+  310  dir
+  311  ll
+  312  cd directorio1
+  313  dir
+  314  cd ..
+  315  tree
+  316  touch contar_lineas.sh
+  317  chmod +x contar_lineas.sh
+  318  vim contar_lineas-sh
+  319  ./contar_lineas.sh
+  320  touch archivo.txt
+  321  vim archivo.txt
+  322  ./contar_lineas.sh
+  323  vim contar_lineas.sh
+  324  ll
+  325  ./backup.sh
+  326  vim backup.sh
+  327  ll
+  328  crontab
+  329  crontb
+  330  date
+  331  crontb
+  332  sudo apt upgrade
+  333  sudo systemctl enable cron
+  334  crontab
+  335  crontab -e
+  336  crontab
+  337  crontab -r
+  338  crontab -e
+  339  crontab -r
+  340  crontab
+  341  crontab -e
+  342  cat crontab
+  343  vim crontab
+  344  genome -calculator
+  345  gnome -calculator
+  346  gnome calculator
+  347  gnome-calculator
+  348  gnome-calculator &
+  349  ps
+  350  gnome-calculator &
+  351  ps
+  352  free
+  353  top
+  354  cls
+  355  touch 21_procesos_2plano.sh
+  356  vim 21_procesos_2plano.sh
+  357  chmod +x 21_procesos_2plano.sh
+  358  ./21_procesos_2plano.sh
+  359  vim 21_procesos_2plano.sh
+  360  ./21_procesos_2plano.sh
+  361  ps
+  362  touch control_background_processes.sh
+  363  vim control_background_processes.sh
+  364  vim 21_procesos_2plano.sh
+  365  vim control_background_processes.sh
+  366  vim 21_procesos_2plano.sh
+  367  vim control_background_processes.sh
+  368  chmod +x control_background_processes.sh
+  369  ./control_background_processes.sh
+  370  vim control_background_processes.sh
+  371  ./control_background_processes.sh
+  372  vim control_background_processes.sh
+  373  ./control_background_processes.sh
+  374  vim control_background_processes.sh
+  375  ./control_background_processes.sh
+  376  vim control_background_processes.sh
+  377  ./control_background_processes.sh
+  378  vim control_background_processes.sh
+  379  ./control_background_processes.sh
+  380  vim control_background_processes.sh
+  381  ./control_background_processes.sh
+  382  vim control_background_processes.sh
+  383  ./control_background_processes.sh
+  384  touch concurrent_background_processes.sh
+  385  chmod +x concurrent_background_processes.sh
+  386  vim concurrent_background_processes.sh
+  387  ./concurrent_background_processes.sh
+  388  vim concurrent_background_processes.sh
+  389  ./concurrent_background_processes.sh
+  390  vim concurrent_background_processes.sh
+  391  ./concurrent_background_processes.sh
+  392  vim concurrent_background_processes.sh
+  393  ./concurrent_background_processes.sh
+  394  vim concurrent_background_processes.sh
+  395  ./concurrent_background_processes.sh
+  396  vim concurrent_background_processes.sh
+  397  ./concurrent_background_processes.sh
+  398  vim concurrent_background_processes.sh
+  399  ./concurrent_background_processes.sh
+  400  vim concurrent_background_processes.sh
+  401  ./concurrent_background_processes.sh
+  402  vim concurrent_background_processes.sh
+  403  ./concurrent_background_processes.sh
+  404  vim concurrent_background_processes.sh
+  405  ./concurrent_background_processes.sh
+  406  vim concurrent_background_processes.sh
+  407  ./concurrent_background_processes.sh
+  408  vim concurrent_background_processes.sh
+  409  ./concurrent_background_processes.sh
+  410  vim concurrent_background_processes.sh
+  411  ./concurrent_background_processes.sh
+  412  vim concurrent_background_processes.sh
+  413  jobs
+  414  ps 
+  415  vim concurrent_background_processes.sh
+  416  ./concurrent_background_processes.sh
+  417  vim concurrent_background_processes.sh
+  418  ./concurrent_background_processes.sh
+  419  vim concurrent_background_processes.sh
+  420  ./concurrent_background_processes.sh
+  421  vim concurrent_background_processes.sh
+  422  ./concurrent_background_processes.sh
+  423  vim concurrent_background_processes.sh
+  424  ./concurrent_background_processes.sh
+  425  ps
+  426  jobs
+  427  job
+  428  jobs
+  429  job
+  430  sleep 100 &
+  431  ./concurrent_background_processes.sh
+  432  ps
+  433  top
+  434  clear
+  435  msg
+  436  top
+  437  poweroff
+  438  pwd
+  439  cd documentos
+  440  dir
+  441  cd Documentos
+  442  dir
+  443  cd ejercicios
+  444  git add 
+  445  git add .
+  446  git commit -m "jueves 26"
+  447  git push
+  448  ll
+  449  cd ..
+  450  dir
+  451  cd ..
+  452  dir
+  453  tree
+  454  ll
+  455  dir *.sh
+  456  mv *.sh Documentos/ejercicios
+  457  dir *.sh
+  458  dir
+  459  cd Documentos
+  460  dir
+  461  cd ejercicios
+  462  git add .
+  463  git commit -m "jueves 25"
+  464  git push
+  465  dir
+  466  tree
+  467  git add .
+  468  git commit -m "jueves 25"
+  469  tree
+  470  cd Documentos
+  471  cd Documentos cd ejercicios
+  472  git add .
+  473  git commit -m "jueves 25"
+  474  git push
+  475  dir
+  476  git add ./
+  477  git commit -m "jueves 25"
+  478  git push
+  479  git add .
+  480  git commit -m "jueves 25"
+  481  git push
+  482  ls -las
+  483  cd ..
+  484  pwd
+  485  ls
+  486  git clone https://github.com/GerardoTrapero/ejercicios.git
+  487  ls -las
+  488  cp ./Documentos/ejercicios ./ejercicios
+  489  cp -r ./Documentos/ejercicios ./ejercicios
+  490  ls -las
+  491  cd ejercicios/
+  492  ls
+  493  ls -las
+  494  git add .
+  495  git commit -m "Ejercicios 26"
+  496  git push
+  497  ls -las
+  498  cd ..
+  499  cd Documentos/ejercicios/
+  500  ls 
+  501  cp concurrent_background_processes.sh ../../ejercicios/
+  502  cp control_background_processes.sh ../../ejercicios/
+  503  git add .
+  504  git commit -m "Ejercicios 26"
+  505  git push
+  506  cp control_background_processes.sh ../../ejercicios/control_background_processes.txt
+  507  cp control_background_processes.sh ../../ejercicios/concurrent_background_processes.txt
+  508  cd ..
+  509  cd ejercicios/
+  510  rm concurrent_background_processes.sh
+  511  rm control_background_processes.sh
+  512  git add .
+  513  cd ..
+  514  rm -r ejercicios/
+  515  ls -las
+  516  cd ejercicios/
+  517  ls -las
+  518  cd ..
+  519  rm -r ejercicios/
+  520  cd ejercicios/
+  521  rmdir .git/
+  522  rm -r .git/
+  523  cd ..
+  524  ls
+  525  cd Escritorio/
+  526  git clone https://github.com/GerardoTrapero/ejercicios.git
+  527  cp ../Documentos/ejercicios/control_background_processes.sh ./ejercicios/concurrent_background_processes.txt
+  528  cp ../Documentos/ejercicios/control_background_processes.sh ./ejercicios/control_background_processes.txt
+  529  cp ../Documentos/ejercicios/concurrent_background_processes.sh ./ejercicios/concurrent_background_processes.txt
+  530  git add .
+  531  cd ejercicios/
+  532  git add .
+  533  git commit -m "Ejercicios 26"
+  534  git push
+  535  poweroff
+  536  cd Documento
+  537  ls
+  538  cd Documentos
+  539  cd ejercicios
+  540  ls -l
+  541  cd ejercicios
+  542  dir
+  543  tree
+  544  cd ..
+  545  ls -l
+  546  ll
+  547  cd clase_2710
+  548  cd clase_27_10
+  549  dir
+  550  vim crear_directorio_en_la_ruta.sh
+  551  chmod +x crear_directorio_en_la_ruta.sh
+  552  ./crear_directorio_en_la_ruta.sh
+  553  vim crear_directorio_en_la_ruta.sh
+  554  ./crear_directorio_en_la_ruta.sh
+  555  pepepotamo
+  556  ./crear_directorio_en_la_ruta.sh pepe
+  557  cd ..
+  558  ls
+  559  cd ..
+  560  ls
+  561  cd gerardotrapero
+  562  tree
+  563  vim crear_directorio_en_la_ruta.sh
+  564  ls
+  565  cd Documentos
+  566  ls
+  567  cd ejercicios
+  568  ls
+  569  cd cd clae_27_10
+  570  cd clase_27_10
+  571  ls
+  572  tree
+  573  vim crear_directorio_en_la_ruta.sh
+  574  . crear_directorio_en_la_ruta.sh
+  575  sudo
+  576  sudo adduser username vboxsf
+  577  sudo adduser gerardotrapero vboxsf
+  578  ll
+  579  clear
+  580  ll
+  581  clear
+  582  pwd
+  583  ll
+  584  ls
+  585  cd practica_entregable/
+  586  ll
+  587  cd Documentos
+  588  cd ..
+  589  cd Documentos
+  590  ll
+  591  cd ejercicios
+  592  ll
+  593  cd ..
+  594  ll
+  595  cd Ejercicios\ 0811/
+  596  ll
+  597  cd ..
+  598  ll
+  599  ls 
+  600  cd Documentos
+  601  ll
+  602  cd A
+  603  ll
+  604  cd ..
+  605  cd ll
+  606  ll
+  607  cd practica_entregable
+  608  ll
+  609  vim archivos_directorios.sh 
+  610  ./archivos_directorios.sh 
+  611  vim archivos_directorios.sh 
+  612  ./archivos_directorios.sh 
+  613  clear
+  614  ./archivos_directorios.sh 
+  615  cd ..
+  616  ll
+  617  rm r-practica_admin
+  618  rm -r practica_admin
+  619  ll
+  620  cd Documentos
+  621  ll
+  622  cd practica_entregable/
+  623  ll
+  624  vim archivos_directorios.sh 
+  625  ./archivos_directorios.sh 
+  626  vim archivos_directorios.sh 
+  627  ./archivos_directorios.sh 
+  628  vim archivos_directorios.sh 
+  629  ./archivos_directorios.sh 
+  630  cd ..
+  631  ll
+  632  cd ejercicios
+  633  ll
+  634  cd ..
+  635  ll
+  636  cd gerardotrapero
+  637  ll
+  638  de Documentos
+  639  cd Documentos
+  640  ll
+  641  cd practica_entregable/
+  642  ll
+  643  vim archivos_directorios.sh 
+  644  vim trabajo_archivos_directorios.sh 
+  645  vim archivos_directorios.sh 
+  646  ./archivos_directorios.sh 
+  647  vim archivos_directorios.sh 
+  648  ./archivos_directorios.sh 
+  649  vim archivos_directorios.sh 
+  650  ./archivos_directorios.sh 
+  651  vim archivos_directorios.sh 
+  652  ./archivos_directorios.sh 
+  653  clear
+  654  ./archivos_directorios.sh 
+  655  cd ..
+  656  cd practica_entregable/
+  657  ll
+  658  vim archivos_directorios.sh 
+  659  ll
+  660  ./archivos_directorios.sh 
+  661  vim archivos_directorios.sh 
+  662  ./archivos_directorios.sh 
+  663  vim archivos_directorios.sh 
+  664  ./archivos_directorios.sh 
+  665  vim archivos_directorios.sh 
+  666  ./archivos_directorios.sh 
+  667  vim archivos_directorios.sh 
+  668  ./archivos_directorios.sh 
+  669  vim archivos_directorios.sh 
+  670  ./archivos_directorios.sh 
+  671  vim archivos_directorios.sh 
+  672  ./archivos_directorios.sh 
+  673  vim archivos_directorios.sh 
+  674  ./archivos_directorios.sh 
+  675  vim archivos_directorios.sh 
+  676  ./archivos_directorios.sh 
+  677  vim archivos_directorios.sh 
+  678  ./archivos_directorios.sh 
+  679  vim archivos_directorios.sh 
+  680  ./archivos_directorios.sh 
+  681  vim archivos_directorios.sh 
+  682  ./archivos_directorios.sh 
+  683  vim archivos_directorios.sh 
+  684  ./archivos_directorios.sh 
+  685  vim archivos_directorios.sh 
+  686  ./archivos_directorios.sh 
+  687  vim archivos_directorios.sh 
+  688  ./archivos_directorios.sh 
+  689  vim archivos_directorios.sh 
+  690  ./archivos_directorios.sh 
+  691  vim archivos_directorios.sh 
+  692  ./archivos_directorios.sh 
+  693  vim archivos_directorios.sh 
+  694  ./archivos_directorios.sh 
+  695  vim archivos_directorios.sh 
+  696  ./archivos_directorios.sh 
+  697  vim archivos_directorios.sh 
+  698  ./archivos_directorios.sh 
+  699  vim archivos_directorios.sh 
+  700  ./archivos_directorios.sh 
+  701  vim archivos_directorios.sh 
+  702  ./archivos_directorios.sh 
+  703  vim archivos_directorios.sh 
+  704  wpd
+  705  pwd
+  706  cd Documentos
+  707  ll
+  708  cd ok_practica_entregable/
+  709  ll
+  710  ./a
+  711  ./archivos_directorios_ok.sh 
+  712  ll
+  713  ./crear_usuario_ok.sh 
+  714  ./crear_usuario_ok.sh pepe marte azul
+  715  ./crear_usuario_ok.sh luis luna verde
+  716  sudo visudo
+  717  cat /etc/passwd
+  718  whoami
+  719  echo $user
+  720  groups
+  721  pwd
+  722  cd Documentos
+  723  ll
+  724  cd ok_practica_entregable/
+  725  ll
+  726  ./archivos_directorios_ok.sh 
+  727  vim archivos_directorios_ok.sh 
+  728  ./crear_usuario_ok.sh 
+  729  vim crear_usuario_ok.sh 
+  730  pwd
+  731  ls
+  732  cd Documentos/
+  733  ls
+  734  mkdir larioja
+  735  cd larioja/
+  736  mkrdir practica16
+  737  mkrdir /practica16
+  738  mkdir practica16
+  739  ll
+  740  ls -l
+  741  ls -la
+  742  cd .
+  743  mkdir dir.uno dir2 dir_3
+  744  ls
+  745  cd practica16/
+  746  ls
+  747  cd ..
+  748  rm -r dir.uno dir2 dir_3
+  749  ll
+  750  cd practica16/
+  751  mkdir dir.uno dir2 dir_3
+  752  ll
+  753  rmdir dir_3
+  754  ll
+  755  cd dir.uno
+  756  touch datos_personales.txt
+  757  ll
+  758  vim datos_personales.txt 
+  759  ls
+  760  cd dir2
+  761  ls
+  762  cd ..
+  763  cd dir2
+  764  ls
+  765  touch prueba1.txt prueba2.txt
+  766  ls
+  767  vim prueba1.txt
+  768  vim prueba2.txt
+  769  ls
+  770  cp dir.uno/datos_personales.txt datos_personales.copia.txt
+  771  cp dir.uno/datos_personales.txt datos_personales.txt
+  772  cp dir.uno/datos_personales.txt ./
+  773  ll
+  774  cd ..
+  775  dir
+  776  cd dir.uno
+  777  cp datos_personales.txt dir2/
+  778  cp datos_personales.txt /dir2
+  779  cp datos_personales.txt ../dir2
+  780  pwd
+  781  cd ..
+  782  cd dir2
+  783  ll
+  784  mv datos_personales.txt datos.personales.copia.txt
+  785  ls
+  786  mv datos personales.copia.txt .datos_personales.txt
+  787  ls
+  788  ls -a
+  789  ls -la
+  790  ls -a
+  791  ls
+  792  mv datos.personales.copia.txt .datos_personales.txt
+  793  ls -a
+  794  ls
+  795  cp .datos_personales.txt datos.personales.copia.txt
+  796  ls
+  797  ls -a
+  798  cd ..
+  799  cd..
+  800  cd ..
+  801  ll
+  802  $cp -r /usr/games .
+  803  cp -r /usr/games .
+  804  ls
+  805  rm -r games
+  806  cd dir2
+  807  ls
+  808  cd practica16/
+  809  ls
+  810  cd dirw
+  811  cd dir2
+  812  ls
+  813  cp -r /usr/games .
+  814  ls
+  815  ls l
+  816  ls -l
+  817  ./sol
+  818  rm -r gnome-soduku
+  819  rmdir -r gnome-soduku
+  820  rm -r gnome-soduku
+  821  ls
+  822  rm -r gnome-soduku
+  823  rmdir -r gnome-soduku
+  824  rm gnome-sodoku
+  825  ls
+  826  cd ..
+  827  cd games
+  828  ls
+  829  cd ..
+  830  mv dir.uno/datos_personales.txt dir2/
+  831  tree
+  832  cd dir2/games
+  833  ls
+  834  rm gnome-sudoku
+  835  ls
+  836  mv /usr/games/gnome-sudoku ./
+  837  mv ~/usr/games/gnome-sudoku ./
+  838  cd ..
+  839  cd..
+  840  cd ..
+  841  ls
+  842  cd ..
+  843  ls
+  844  cd ..
+  845  ls
+  846  cp /user/games/gnome-sudoku ~Documentos/larioja/practica16/dir2/games
+  847  cp/ /user/games/gnome-sudoku home/gerardotrapero/Documentos/larioja/practica16/dir2/games
+  848  cp /user/games/gnome-sudoku home/gerardotrapero/Documentos/larioja/practica16/dir2/games
+  849  ls
+  850  cd /home
+  851  ll
+  852  cd gerardotrapero/
+  853  ls
+  854  cd Documentos
+  855  ls
+  856  cd larioja/
+  857  cd practica16/
+  858  ls
+  859  mv dir.uno ../../Escritorio
+  860  cd ..
+  861  ls
+  862  cd Escritorio/
+  863  ls
+  864  cd ..
+  865  ls
+  866  rm practica_admin/
+  867  rm -r practica_admi/
+  868  rmdir -r practica_admi/
+  869  rmdir practica_admi
+  870  rmdir practica_admin
+  871  rmdir -r practica_admin
+  872  rm -r practica_admin
+  873  ll
+  874  cd Documentos/
+  875  cd larioja/
+  876  cd practica16/
+  877  ll
+  878  cd Documentos/ls
+  879  ls
+  880  mkdir dir.uno
+  881  ls
+  882  mv dir.uno ../../../Escritorio
+  883  cd ..
+  884  ls
+  885  cd Escritorio
+  886  ls
+  887  mv /dir.uno mis_textos
+  888  mv dir.uno mis_textos
+  889  ls
+  890  $ln -s ../practica16/dir2/games/sol enl_debil_sol
+  891  $ln -s ../practica16/dir2/games/sol enl_debil_juego
+  892  ln -s ../practica16/dir2/games/sol enl_debil_juego
+  893  ls -l
+  894  ./sol
+  895  tree
+  896  ./enl_debil_juego
+  897  sol
+  898  ln ../practica16/dir2/games/nombre_del_juego enl_fuerte_juego
+  899  ln ../practica16/dir2/games/nombre_del_juego enl_fuerte_sol
+  900  ln ../practica16/dir2/games/sol enl_fuerte_juego
+  901  cd ..
+  902  cd Documentos
+  903  cd larioja/
+  904  ls
+  905  cd practica16/
+  906  ls
+  907  cd dir2
+  908  ls
+  909  cd games
+  910  ls
+  911  cd ..
+  912  cd Escritorio/
+  913  ls
+  914  ln ..Documentos/larioja/practica16/dir2/games/nombre_del_juego enl_fuerte_sol
+  915  ln ../Documentos/larioja/practica16/dir2/games/nombre_del_juego enl_fuerte_sol
+  916  ln ./Documentos/larioja/practica16/dir2/games/nombre_del_juego enl_fuerte_sol
+  917  ln /Documentos/larioja/practica16/dir2/games/nombre_del_juego enl_fuerte_sol
+  918  ln ~/Documentos/larioja/practica16/dir2/games/nombre_del_juego enl_fuerte_sol
+  919  ln ../Documentos/larioja/practica16/dir2/games/nombre_del_juego enl_fuerte_sol
+  920  ln ../Documentos/larioja/practica16/dir2/games/sol enl_fuerte_juego
+  921  ls
+  922  ls -l
+  923  ls -li
+  924  cd ..
+  925  cd Documentos/ls
+  926  pwd
+  927  ls
+  928  cd Documentos
+  929  ls
+  930  cd larioja
+  931  ls
+  932  cd practica16/
+  933  ls
+  934  cd dir2
+  935  ls
+  936  cd games
+  937  cd ..
+  938  ls -li
+  939  cd games
+  940  ls -li
+  941  rm sol
+  942  cd ..
+  943  ls
+  944  cd Escritorio
+  945  ls
+  946  ls -l
+  947  ls -li
+  948  cd ..
+  949  cd Documentos/larioja/practica16/
+  950  ls
+  951  ls -lia /root
+  952  sudo ls -lia /root
+  953  ln -s/root raiz
+  954  ln -s /root raiz
+  955  cd ..
+  956  ls
+  957  cd ..
+  958  ls
+  959  ls -lia /root
+  960  cd gerardotrapero
+  961  ls -lia /root
+  962  ls -lia /root raiz
+  963  ls -lia /root gerardotrapero
+  964  sudo ls -lia /root gerardotrapero
+  965  ll
+  966  cd Escritorio
+  967  cd ..
+  968  ls
+  969  cd ..
+  970  ls
+  971  cd Documentos/larioja/practica16/dir2
+  972  cd Do
+  973  ls
+  974  cd gerardotrapero
+  975  ls
+  976  cd Documentos/larioja/practica16/
+  977  ls
+  978  cd raiz
+  979  ls
+  980  cd raiz
+  981  sudo cd raiz
+  982  ls
+  983  ln –s /root raiz
+  984  ln –s /root gerardotrapero
+  985  ls -lia /root
+  986  sudo ls -lia /root
+  987  ls
+  988  raiz
+  989  cd raizç
+  990  cd raiz
+  991  sudo raiz
+  992  sudo cd/raiz
+  993  cd raiz
+  994  sudo cd raiz
+  995  cd raiz
+  996  sudo cd raiz
+  997  ls -l raiz
+  998  ls
+  999  rm raiz
+ 1000  ls
+ 1001  tar
+ 1002  cd ..
+ 1003  ls
+ 1004  cd larioja
+ 1005  ls
+ 1006  tar -cvf practica16.tar practica16
+ 1007  ls -l
+ 1008  rm -r practica16
+ 1009  ls
+ 1010  $tar -xvf practica16.tar
+ 1011  tar -xvf practica16.tar
+ 1012  ls
+ 1013  gzip practica16.tar
+ 1014  ls
+ 1015  ls -l
+ 1016  tar -cvf practica16.tar practica16
+ 1017  ls -l
+ 1018  rm practica16.tar.gz
+ 1019  ls
+ 1020  gzip practica16
+ 1021  gzip practica16.tar
+ 1022  ls
+ 1023  ls -l
+ 1024  gunzip practica16.tar.gz
+ 1025  ls -l
+ 1026  ls
+ 1027  gzip -9 practica16.tar
+ 1028  ls -l
+ 1029  gunzip practica16.tar.gz
+ 1030  ls
+ 1031  ls -l
+ 1032  bzip2 practica16.tar
+ 1033  ls -l
+ 1034  cat history | mandatos_practica_16 
+ 1035  history
+ 1036  cat history mandatos_practica_16.txt
+ 1037  history > backup_historial
+ 1038  ls
+ 1039  cat backup_historial 
+ 1040  history > mandatos_practica16
