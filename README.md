@@ -1,2 +1,2 @@
-# Practicas
-Repositorio para prácticas de Ububtu 22
+# ejercicios
+Repositorios de ejercicios de Linux

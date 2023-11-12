@@ -1,0 +1,3 @@
+Esto es el texto que introduzco en notas.txt
+
+history | grep cat >> historial.txt

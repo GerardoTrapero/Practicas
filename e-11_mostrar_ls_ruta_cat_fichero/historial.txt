@@ -1,0 +1,4 @@
+30
+   20  cat notas-txt
+   21  cat notas.txt
+   24  history | grep cat >> historial.txt
