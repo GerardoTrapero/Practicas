@@ -1,6 +1,10 @@
 #!/bin/bash
 
-#Buscar archivos con extension ".txt" en el directorio actual
+# Buscar todos los archivos con extension txt en el directorio actual con el comando find, mostrar lista de los nombres de todos ellos
+
+#-------------------------------------------------------------------------------------------------------------------------------------
+
+# Buscar archivos con extension ".txt" en el directorio actual
 
 files_txt=$(find . -type f -name "*.txt")
 

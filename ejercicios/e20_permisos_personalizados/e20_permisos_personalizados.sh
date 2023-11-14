@@ -19,10 +19,14 @@
  #Crear archivo
 
  touch "$nombre_archivo"
+ ls -l "$nombre_arhivo"
 
  #Asignar permisos
 
  chmod u=${permisos_propietario},g={permisos_grupo},o={permisos_otros} "$nombre_archivo"
- echo "Archivo $nombre_archivo creado con permisos: "
 
- ls -l "$nombre_arhivo"
+ echo "Archivo $nombre_archivo creado con permisos: "
+ echo "Propietario: $permisos_propietario"
+ echo "Grupo: $permisos_grupo"
+ echo "Otros: $permisos_otros"
+ 
